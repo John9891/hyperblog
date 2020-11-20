@@ -1,2 +1,2 @@
 Esto es una prueba de GIT
-y esta es una modificación
+y esta es una pequeña modificación
