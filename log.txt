@@ -1,0 +1,23 @@
+commit fc5013f63570533e1d8040b78aa01df581370992
+Author: John9891 <joal9891@hotmail.com>
+Date:   Thu Nov 19 21:09:25 2020 -0500
+
+    Pequeño cambio en historia.txt
+
+commit c8cd4a47796a4b248223a6f31bc07a7fbc35d118
+Author: John9891 <joal9891@hotmail.com>
+Date:   Thu Nov 19 21:08:01 2020 -0500
+
+    Iniciar proyecto
+
+commit 0f45efa63621379504d545a66d7585e50520d0a4
+Author: John9891 <joal9891@hotmail.com>
+Date:   Thu Nov 19 20:35:20 2020 -0500
+
+    Se cambia el archivo historia.txt
+
+commit 5225ef73a317b6a18d71dd020b9dcec9b220a277
+Author: John9891 <joal9891@hotmail.com>
+Date:   Thu Nov 19 20:28:53 2020 -0500
+
+    Se agrega historia.txt
